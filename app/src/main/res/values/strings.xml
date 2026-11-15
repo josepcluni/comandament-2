@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remap TV</string>
+    <string name="service_desc">Intercepta los botones del mando para reasignarlos a otras acciones.</string>
+</resources>
